@@ -19,7 +19,7 @@
 
 on:
   push:
-    branches: [ "main" ]
+    branches: [ shivaj27/firmware_engineer ]
   workflow_dispatch:
 
 env:
